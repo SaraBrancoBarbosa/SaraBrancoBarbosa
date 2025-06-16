@@ -1,5 +1,5 @@
 # Bonjour 👋
-Je suis développeuse web Front-End junior. Ma passion pour les langues m’a attirée dans ce domaine fascinant !
+Je suis développeuse web Front-End juniore. Ma passion pour les langues m’a attirée dans ce domaine fascinant !
 
 ### 📚 Technologies :
 - JavaScript
